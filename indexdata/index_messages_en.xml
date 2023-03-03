@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[]]></data>
+
+
+  <data name="en_panogroup252_title"><![CDATA[Niederkofler]]></data>
+
+  <data name="en_pano238_title"><![CDATA[Verkaufsraum]]></data>
+  <data name="en_pano240_title"><![CDATA[Verkaufsraum vorne]]></data>
+  <data name="en_pano3784_title"><![CDATA[[Group 0]-niederkofler gp (3) 7_niederkofler gp (3) 3-7 images]]></data>
+  <data name="en_pano3786_title"><![CDATA[[Group 3]-niederkofler gp (2) 7_niederkofler gp (2) 3-7 images]]></data>
+
+
+	<data name="en_spotmap43_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap51_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap52_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap53_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap54_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap166_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap167_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap168_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap170_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap227_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap307_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap308_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap309_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap310_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap311_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap312_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap408_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap409_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap410_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap411_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap412_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap413_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap414_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap415_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap416_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap419_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap420_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap421_tooltip"><![CDATA[%p]]></data>
+	<data name="en_spotmap513_tooltip"><![CDATA[%p]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
